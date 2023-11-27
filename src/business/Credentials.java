@@ -7,7 +7,7 @@ public enum Credentials {
 
 	INSTANCE;
 
-	public String primaryStageTitle = "JavaFX", numbersImageViewColor = "black";
+	public String primaryStageTitle = "A Rusty Throne", numbersImageViewColor = "black";
 	public boolean colliderVisibility = true;
 	public double stagePixesOnTheLeft = 180, gapBetweenBorders = 25, textHeight = 50,
 			selectEventHandlerAbleDimension = 100, animationStep = 4, cameraViewSpots = 1;
